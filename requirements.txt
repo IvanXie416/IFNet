@@ -1,0 +1,14 @@
+torch 
+numpy
+scipy
+tqdm
+h5py
+easydict
+open3d
+tensorboard
+tensorboardX
+yaml
+ipdb
+sklearn
+plyfile
+MinkowskiEngine>=0.5

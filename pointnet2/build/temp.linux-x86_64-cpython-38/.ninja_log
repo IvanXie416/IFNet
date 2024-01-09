@@ -1,0 +1,10 @@
+# ninja log v5
+13	6297	1686136064880044800	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/interpolate.o	398df7f1247e805a
+12	6379	1686136064963605600	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/group_points.o	daf6062d89133ba4
+17	6949	1686136065532123200	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/sampling.o	784e04b9ac02411e
+11	7271	1686136065855378900	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/ball_query.o	2a5e8a42c6f5c80a
+12	17012	1686136075595927900	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	b3fcfc28b1ed2c87
+13	17205	1686136075789034800	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	919555d25f49c6c6
+17	17248	1686136075831614900	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	8ed27872532191bd
+14	17282	1686136075867158700	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	302d42291ef752cb
+16	17505	1686136076084241100	/mnt/d/Code/RIENet/pointnet2/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	ca789dc4513ce8a3

@@ -1,0 +1,10 @@
+# ninja log v5
+1	9746	1686706735531539101	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate.o	e20289d5653c4a00
+1	10119	1686706735903544148	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/group_points.o	3a0009783a1e8075
+1	10151	1686706735935544582	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query.o	1c9659fb9e365bfe
+2	10513	1686706736299549520	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/sampling.o	4722ab9aec51be8d
+1	28463	1686706754255793113	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate_gpu.o	3fd92e281ab2c849
+1	28630	1686706754423795392	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/group_points_gpu.o	bfa638a1d6f64a05
+1	28841	1686706754631798214	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query_gpu.o	b48492d7aa7b169a
+1	29233	1686706755011803369	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/pointnet2_api.o	5b7c8d363a4b337b
+2	30500	1686706756291820734	/root/autodl-tmp/UFBNet/pointnet2/build/temp.linux-x86_64-3.8/src/sampling_gpu.o	457817ade8ae6585
