@@ -1,6 +1,6 @@
 # Iterative Feedback Network for Unsupervised Point Cloud Registration (RAL 2024)
 PyTorch implementation of the paper:
-[Iterative Feedback Network for Unsupervised Point Cloud Registration](https://arxiv.org/).
+[Iterative Feedback Network for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2401.04357).
 
 ![CMIGNet architecture](assets/IFNet.png)
 
@@ -47,7 +47,7 @@ To test a model:
 <!-- ## Citation
 If you find our work useful in your research, please consider citing:
 ```latex
-@article{xie2023cross,
+@article{xie2024iterative,
   author={Xie, Yifan and Zhu, Jihua and Li, Shiqi and Shi, Pengcheng},
   journal={IEEE Robotics and Automation Letters}, 
   title={Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration}, 
@@ -56,6 +56,15 @@ If you find our work useful in your research, please consider citing:
   number={1},
   pages={103-110},
   doi={10.1109/LRA.2023.3331625}
+}
+
+@article{xie2024iterative,
+      title={Iterative Feedback Network for Unsupervised Point Cloud Registration}, 
+      author={Yifan Xie and Boyu Wang and Shiqi Li and Jihua Zhu},
+      year={2024},
+      eprint={2401.04357},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ``` -->
 
