@@ -59,5 +59,5 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ### Acknowledgement
-This code is developed heavily relying on [RIENet](https://github.com/supersyq/RIENet), and also [HRegNet](https://github.com/ispc-lab/HRegNet) and [GMFN](https://github.com/liqilei/GMFN). Thanks for these great projects.
+This code is developed heavily relying on [RIENet](https://github.com/supersyq/RIENet), [HRegNet](https://github.com/ispc-lab/HRegNet) and [GMFN](https://github.com/liqilei/GMFN). Thanks for these great projects.
 
