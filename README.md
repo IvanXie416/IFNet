@@ -44,29 +44,19 @@ To test a model:
      CUDA_VISIBLE_DEVICES=0 python main.py ./config/train-k.yaml
      ```
 
-<!-- ## Citation
+
+
+## Citation
 If you find our work useful in your research, please consider citing:
 ```latex
 @article{xie2024iterative,
-  author={Xie, Yifan and Zhu, Jihua and Li, Shiqi and Shi, Pengcheng},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration}, 
+  title={Iterative Feedback Network for Unsupervised Point Cloud Registration},
+  author={Xie, Yifan and Wang, Boyu and Li, Shiqi and Zhu, Jihua},
+  journal={IEEE Robotics and Automation Letters},
   year={2024},
-  volume={9},
-  number={1},
-  pages={103-110},
-  doi={10.1109/LRA.2023.3331625}
+  publisher={IEEE}
 }
-
-@article{xie2024iterative,
-      title={Iterative Feedback Network for Unsupervised Point Cloud Registration}, 
-      author={Yifan Xie and Boyu Wang and Shiqi Li and Jihua Zhu},
-      year={2024},
-      eprint={2401.04357},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-``` -->
+```
 
 ### Acknowledgement
 This code is developed heavily relying on [RIENet](https://github.com/supersyq/RIENet), and also [HRegNet](https://github.com/ispc-lab/HRegNet) and [GMFN](https://github.com/liqilei/GMFN). Thanks for these great projects.
